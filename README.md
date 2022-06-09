@@ -17,6 +17,7 @@
 ### 🏠 [Homepage](https://github.com/Dmj22/Chatty-Patty-#readme)
 
 ### ✨ [Demo](https://chatty-patty.herokuapp.com/)
+![Screen Shot 2022-06-09 at 5 11 49 PM](https://user-images.githubusercontent.com/98237579/172945302-eace9622-ac34-415b-9665-3febd37c903a.png)
 
 
 ## Install
